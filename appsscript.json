@@ -1,0 +1,22 @@
+{
+  "timeZone": "America/Chicago",
+  "exceptionLogging": "STACKDRIVER",
+  "runtimeVersion": "V8",
+  "dependencies": {
+    "enabledAdvancedServices": [
+      {
+        "userSymbol": "Drive",
+        "serviceId": "drive",
+        "version": "v3"
+      }
+    ],
+    "libraries": [
+      {
+        "userSymbol": "RevRebelGlobalMessagesLibrary",
+        "libraryId": "1bfDp3OH4aagsqxein4L2UiQ2MarolHxS0ysfCPDi2R6xDqlMFTNE2iZG",
+        "version": "0",
+        "developmentMode": true
+      }
+    ]
+  }
+}
